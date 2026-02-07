@@ -37,7 +37,7 @@ const Contact = () => {
           </a>
 
           <a 
-            href="https://linkedin.com/in/semihberkanokutan" 
+            href="https://www.linkedin.com/in/semih-berkan-okutan/" 
             target="_blank" 
             className="flex items-center justify-center gap-3 p-4 bg-white/5 border border-white/10 rounded-xl hover:bg-white/10 transition-colors"
           >
