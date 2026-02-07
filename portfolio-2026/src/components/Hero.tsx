@@ -18,7 +18,7 @@ const Hero = () => {
 
       {/* Description */}
       <p className="max-w-2xl text-gray-400 text-lg md:text-xl leading-relaxed mb-12">
-        Im <span className="text-white font-medium">Your Name</span>, a Computer Science student 
+        Im <span className="text-white font-medium">Semih Berkan OKUTAN</span>, a Computer Science student 
         passionate about building robust backend systems and intuitive user experiences. 
         Currently exploring Distributed Systems and Cloud Architecture.
       </p>

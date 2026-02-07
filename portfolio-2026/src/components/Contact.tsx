@@ -27,7 +27,7 @@ const Contact = () => {
         {/* Social Links Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
           <a 
-            href="https://github.com/yourusername" 
+            href="https://github.com/semihberkanokutan" 
             target="_blank" 
             className="flex items-center justify-center gap-3 p-4 bg-white/5 border border-white/10 rounded-xl hover:bg-white/10 transition-colors"
           >
@@ -37,7 +37,7 @@ const Contact = () => {
           </a>
 
           <a 
-            href="https://linkedin.com/in/yourusername" 
+            href="https://linkedin.com/in/semihberkanokutan" 
             target="_blank" 
             className="flex items-center justify-center gap-3 p-4 bg-white/5 border border-white/10 rounded-xl hover:bg-white/10 transition-colors"
           >

@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 w-full z-50 border-b border-white/10 bg-black/50 backdrop-blur-md">
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
-        <a href="#" className="text-white font-bold text-xl">NAME<span className="text-blue-500">.DEV</span></a>
+        <a href="#" className="text-white font-bold text-xl">SemihBerkanOkutan<span className="text-blue-500">.DEV</span></a>
 
         {/* Desktop Menu */}
         <div className="hidden md:flex items-center gap-8">
@@ -21,7 +21,7 @@ const Navbar = () => {
 
           {/* Github Icon for Desktop */}
           <a 
-            href="https://github.com/yourusername" 
+            href="https://github.com/semihberkanokutan" 
             target="_blank" 
             rel="noreferrer" 
             className="text-gray-400 hover:text-white transition-colors"
@@ -47,7 +47,7 @@ const Navbar = () => {
           
           {/* Github Link for Mobile */}
           <a 
-            href="https://github.com/yourusername" 
+            href="https://github.com/semihberkanokutan" 
             className="flex items-center gap-2 text-blue-400 font-medium"
             onClick={() => setIsOpen(false)}
           >

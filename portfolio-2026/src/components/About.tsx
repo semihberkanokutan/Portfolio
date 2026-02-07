@@ -20,12 +20,12 @@ const About = () => {
           
           <div className="text-gray-400 space-y-4 text-lg leading-relaxed">
             <p>
-              Hello! My name is <span className="text-white font-medium">Your Name</span>. 
+              Hello! My name is <span className="text-white font-medium">Semih</span>. 
               My journey into programming started when I tried to automate my math homework 
               in high school, which sparked a deep curiosity about how software works under the hood.
             </p>
             <p>
-              Fast-forward to today, I&apos;m a Computer Science student at <span className="text-white">Your University</span>. 
+              Fast-forward to today, I&apos;m a Computer Science student at <span className="text-white">Ankara University</span>. 
               My main focus is building scalable, distributed systems and exploring the 
               intersection of performance and user experience.
             </p>
