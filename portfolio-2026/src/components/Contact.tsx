@@ -17,7 +17,7 @@ const Contact = () => {
 
         {/* Contact Method: The Big Button */}
         <a 
-          href="mailto:your.email@example.com" 
+          href="mailto:okutansemih11@gmail.com" 
           className="inline-flex items-center gap-3 px-8 py-4 bg-blue-600 hover:bg-blue-500 text-white font-bold rounded-xl transition-all hover:-translate-y-1 mb-16"
         >
           <Mail size={20} />
