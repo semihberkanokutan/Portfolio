@@ -22,11 +22,11 @@ export default function ProjectCard({ project }: { project: Project }) {
 
       {/* Links */}
       <div className="flex gap-4">
-        <a href={project.githubUrl} className="text-gray-400 hover:text-white transition-colors">
+        <a href={project.githubUrl} target='_blank' className="text-gray-400 hover:text-white transition-colors">
           <Github size={20} />
         </a>
         {project.liveUrl && (
-          <a href={project.liveUrl} className="text-gray-400 hover:text-white transition-colors">
+          <a href={project.liveUrl} target='_blank' className="text-gray-400 hover:text-white transition-colors">
             <ExternalLink size={20} />
           </a>
         )}
