@@ -6,6 +6,10 @@
   --background-end-rgb: 10, 10, 10;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   min-height: 100vh;
   color: rgb(var(--foreground-rgb));
