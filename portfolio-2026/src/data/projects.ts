@@ -20,4 +20,11 @@ export const projects: Project[] = [
     githubUrl: "https://github.com/youruser/shop-api",
     liveUrl: "https://shop-demo.vercel.app",
   },
+  {
+    title: "Weather App",
+    description: "User friendly weather app.",
+    techStack: ["React", "OpenWeather API", "Tailwing"],
+    githubUrl: "https://github.com/semihberkanokutan/Weather-App",
+    liveUrl: "https://weather-app-sage-five-95.vercel.app/",
+  },
 ];
